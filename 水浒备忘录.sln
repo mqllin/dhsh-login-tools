@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhshLoginTools", "dhshLoginTools\", "{5DB25B08-D6B1-4145-8B60-C0AAC9AA6E77}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhshLoginTools", "dhshLoginTools\dhshLoginTools.csproj", "{1E514D4E-6A84-4FA5-A32A-1080E2BFDC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E514D4E-6A84-4FA5-A32A-1080E2BFDC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E514D4E-6A84-4FA5-A32A-1080E2BFDC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E514D4E-6A84-4FA5-A32A-1080E2BFDC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E514D4E-6A84-4FA5-A32A-1080E2BFDC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486AC4EC-758F-4B5B-B44A-FC34F9873572}
+	EndGlobalSection
+EndGlobal
